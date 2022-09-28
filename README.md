@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabdevz
 - 👀 I’m interested in Coding,Reading,Gaming.....
-- 🌱 I’m currently learning Remix
+- 🌱 I’m currently working on golang library for a project
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
